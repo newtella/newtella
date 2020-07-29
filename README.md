@@ -39,8 +39,8 @@ class Programming() {
 }
 
 class Social() {
-  public $website = "https://www.realsoft.dev"
-  public $github = "newtella"
+  public $website = "https://www.realsoft.dev";
+  public $github = "newtella";
 }
 ?>
 ```
