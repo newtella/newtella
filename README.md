@@ -22,7 +22,7 @@ class Info() {
   public $name = "Freddy Marroquin";
   public $age = 25;
   public $nationality = "Guatemalan";
-  public $languages = array("spanish" => "Native", "English" => "Read & Write");
+  public $languages = array("spanish" => "Native", "English" => "B2 Upper Intermediate");
   public $school = "Francisco Marroquin";
   public $ocupation ="Computer Science, Electrical Technician";
   public $free_time = "Learning new technologies, dating my wife <3 and sometimes LoL matches(Freljord Forever)";
@@ -44,6 +44,13 @@ class Social() {
 }
 ?>
 ```
+
+### Things Can I Prove 
+
+* English B2 UPPER INTERMEDIATE:  
+EFSET.org Certificate: [efset.org/cert/8LVRA4](https://www.efset.org/cert/8LVRA4)
+
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
