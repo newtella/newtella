@@ -57,14 +57,11 @@ EFSET.org Certificate: [efset.org/cert/8LVRA4](https://www.efset.org/cert/8LVRA4
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
+### Member Of 
 * DEV: <br />
 <a>
   <img src="https://avatars1.githubusercontent.com/u/32725024?s=460&u=c133268a385f53c2a856034315f8d8f5510b9d1d&v=4" alt="Freddy Marroquin's DEV Profile" height="60" width="60">
 </a>
-<a href="#">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Freddy Marroquin" height="60" width="60">
-</a>
-
 <!--
 **newtella/newtella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
