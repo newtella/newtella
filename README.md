@@ -41,6 +41,9 @@ class Programming() {
 class Social() {
   public $website = "https://www.realsoft.dev";
   public $github = "newtella";
+  public $dev = "newtella" <a href="https://dev.to/newtella">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Freddy Marroquin's DEV Profile" height="30" width="30">
+  </a>
 }
 ?>
 ```
