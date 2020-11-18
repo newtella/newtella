@@ -39,7 +39,7 @@ class Programming() {
 }
 
 class Social() {
-  public $website = "https://www.realsoft.dev";
+  public $website = "https://www.newautomation.dev";
   public $github = "newtella";
   public $dev = "newtella"
 }
