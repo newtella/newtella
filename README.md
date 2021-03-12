@@ -25,7 +25,7 @@ class Info() {
   public $languages = array("spanish" => "Native", "English" => "B2 Upper Intermediate");
   public $school = "Francisco Marroquin";
   public $ocupation ="Computer Science, Electrical Technician";
-  public $free_time = "Learning new technologies, dating my wife <3 and sometimes LoL matches(Freljord Forever)";
+  public $free_time = "Learning new technologies and sometimes LoL matches(Freljord Forever)";
   public $musical_interest_years = "whateva makes me feel alive";
 }
 
