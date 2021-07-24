@@ -39,9 +39,9 @@ class Programming() {
 }
 
 class Social() {
-  public $website = "https://www.newautomation.dev";
+  public $website = "https://www.gofm.codes";
   public $github = "newtella";
-  public $dev = "newtella"
+  public $medium = "https://gofm.medium.com/"
 }
 ?>
 ```
@@ -57,10 +57,10 @@ EFSET.org Certificate: [efset.org/cert/8LVRA4](https://www.efset.org/cert/8LVRA4
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-### Member Of 
+### Follow my Journey on Medium
 
-<a href="https://dev.to/newtella">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Freddy Marroquin's DEV Profile" height="60" width="60">
+<a href="https://gofm.medium.com/">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/medium-47-433328.png" alt="Freddy Marroquin's Medium Journey" height="60" width="60">
 </a>
 <!--
 **newtella/newtella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
